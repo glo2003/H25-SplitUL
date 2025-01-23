@@ -1,4 +1,4 @@
-# Projet - Restalo
+# Projet - SplitUL
 
 Application de gestion des factures d'appartement
 
